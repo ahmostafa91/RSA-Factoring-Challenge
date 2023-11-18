@@ -1,7 +1,3 @@
-RSA Factoring Challenge
-
-    By Julien Barbier
-
 Background Context
 
 Before you continue reading, start this song in the background :)
